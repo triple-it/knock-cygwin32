@@ -1,4 +1,4 @@
-## Knock-cygwin32: A port-knocking implementation on Cygwin32 for Windows
+## Knock-cygwin32: A port-knocking knockd service implementation on Cygwin32 for Windows
 
 Copyright (c) 2004, Judd Vinet <jvinet@zeroflux.org>
 
