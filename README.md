@@ -105,8 +105,6 @@ index eff10bc..207caff 100644
  int  o_skipIpV6  = 0;
 -char o_int[32]           = "";         /* default (eth0) is set after parseconf
 ig() */
-+//char o_int[32]           = "";               /* default (eth0) is set after p
-arseconfig() */
 +char o_int[64]           = "";         /* Otherwise we cannot put in long inter
 face names like "-i "\Device\NPF_{32CF62AB-06A1-4A29-BF50-3BB2366AFC79}" */
  char o_cfg[PATH_MAX]     = "/etc/knockd.conf";
