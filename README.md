@@ -1,6 +1,7 @@
 ## Knock-cygwin32: A port-knocking implementation on Cygwin32 for Windows
 
 Copyright (c) 2004, Judd Vinet <jvinet@zeroflux.org>
+Read the original README_original.md!!
 
 ### Building
 
