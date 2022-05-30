@@ -69,7 +69,9 @@ Copy all headers from WpdPack\Include to cygwin\usr\include\pcap\
 
 - Compile inside cygwin32
 
-`  $ git clone knock-cygwin32`
+`  $ git clone https://github.com/triple-it/knock-cygwin32.git`
+
+`  $ cd knock-cygwin32`
 
 `  $ autoreconf -fi`
 
