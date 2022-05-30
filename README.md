@@ -43,7 +43,7 @@ To build knockd for Cygwin, we need to have Cygwin32-X86 for which we can still 
 
   `c:\tmp>copy WpdPack_4_1_2\WpdPack\Lib\libpacket.a c:\cygwin\lib\`
 
-  `c:\tmp>copy WpdPack_4_1_2\WpdPack\Lib\libwpcap.a cygwin\lib\`
+  `c:\tmp>copy WpdPack_4_1_2\WpdPack\Lib\libwpcap.a c:\cygwin\lib\`
 
 
   Create a folder cygwin\usr\include\pcap\
